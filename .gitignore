@@ -6,7 +6,17 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent/
+BuildingEscape/Content/StarterContent/Architecture
+BuildingEscape/Content/StarterContent/Audio
+BuildingEscape/Content/StarterContent/Blueprints
+BuildingEscape/Content/StarterContent/HDRI
+BuildingEscape/Content/StarterContent/Materials
+BuildingEscape/Content/StarterContent/Maps/Advanced_Lighting.umap
+BuildingEscape/Content/StarterContent/Maps/StarterMap.umap
+BuildingEscape/Content/StarterContent/Particles
+BuildingEscape/Content/StarterContent/Props
+BuildingEscape/Content/StarterContent/Shapes
+BuildingEscape/Content/StarterContent/Textures
 
 ######################
 # VS Generated Files #
