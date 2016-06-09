@@ -19,4 +19,7 @@ BuildingEscape/Content/StarterContent/Textures
 ######################
 # VS Generated Files #
 ######################
+*.VC.db
+*.suo
 *.sdf
+*.suo
